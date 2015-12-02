@@ -1,2 +1,9 @@
 # Plugin-DEV-
-MaarioLand Core And More
+name: MaarioCore
+version: 1.0.0
+main: xirano\Main
+api: 1.12.0
+namespace: XiraDev
+description: MaarioLandPlugin
+author: XiranoMC
+
